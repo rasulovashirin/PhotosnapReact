@@ -13,18 +13,18 @@
         <nav>
           <ul className="header__nav-list">
             <li className="header__nav-item">
-              <a href="#" className="header__nav-link">Stories</a>
+              <a href="index.html" className="header__nav-link">Stories</a>
             </li>
             <li className="header__nav-item">
-              <a href="#" className="header__nav-link">Features</a>
+              <a href="index.html" className="header__nav-link">Features</a>
             </li>
             <li className="header__nav-item">
-              <a href="#" className="header__nav-link">Pricing</a>
+              <a href="index.html" className="header__nav-link">Pricing</a>
             </li>
           </ul>
         </nav>
 
-       <a href="#" className="header__invite-link">Get an invite</a>
+       <a href="index.html" className="header__invite-link">Get an invite</a>
       </div>
     </header>
    </>
